@@ -1,0 +1,3 @@
+THis is an intro to Git and GitHub workshop
+
+Hanson is the Host.
